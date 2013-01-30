@@ -22,6 +22,8 @@ weinre is WEb INspector REmote.
 Pronounced like the word "winery". Or maybe like the word "weiner". 
 Who knows, really.
 
+Test edit
+
 weinre is a debugger for web pages, 
 like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), 
 except it's designed to work remotely, and in particular, 
